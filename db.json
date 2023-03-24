@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "name": "ggggee",
+      "budget": "55555",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 5555,
+      "services": [
+        {
+          "cost": "3333",
+          "id": "5c9a0a6e-c8e0-4979-96db-a087979c72bb"
+        },
+        {
+          "name": "teste",
+          "cost": "2222",
+          "description": "rfrf",
+          "id": "f8c2ed88-e819-4b28-9323-412b8f4ddd24"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "Hayderber abreu",
+      "budget": "7000000000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 266,
+      "services": [
+        {
+          "name": "frfrftr",
+          "cost": "44",
+          "description": "rrrrr",
+          "id": "58bf54b2-412d-41b0-8418-b4afc20967cb"
+        },
+        {
+          "name": "44444",
+          "cost": "222",
+          "description": "dddd",
+          "id": "a9b6181a-08ae-41cb-a27b-de2d8ae27279"
+        }
+      ],
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
