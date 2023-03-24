@@ -7,7 +7,7 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 5555,
+      "cost": 38888,
       "services": [
         {
           "cost": "3333",
@@ -18,6 +18,12 @@
           "cost": "2222",
           "description": "rfrf",
           "id": "f8c2ed88-e819-4b28-9323-412b8f4ddd24"
+        },
+        {
+          "name": "ggg",
+          "cost": "33333",
+          "description": "rgv",
+          "id": "75aa98cb-c34a-4525-9288-3dbc8576b247"
         }
       ],
       "id": 13
@@ -29,7 +35,7 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 266,
+      "cost": 376,
       "services": [
         {
           "name": "frfrftr",
@@ -38,13 +44,53 @@
           "id": "58bf54b2-412d-41b0-8418-b4afc20967cb"
         },
         {
-          "name": "44444",
-          "cost": "222",
-          "description": "dddd",
-          "id": "a9b6181a-08ae-41cb-a27b-de2d8ae27279"
+          "name": "dia133",
+          "cost": "332",
+          "id": "48ae715c-dac0-426e-9c30-f34dfbeebbf7"
         }
       ],
       "id": 14
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 15
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 16
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 17
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 18
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 19
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "meu primeiro projeto ",
+      "budget": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 20
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 21
     }
   ],
   "categories": [

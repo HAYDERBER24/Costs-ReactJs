@@ -42,7 +42,7 @@ export default function Projects(){
             fetch(`http://localhost:5000/projects/${id}`, {
                 method: 'DELETE',
                 headers:{
-                    'Content-Type': 'applicationjson'
+                    'Content-Type': 'application/json'
                 },
             }) //pega dados do banco e filtra pelo id 
             .then(resp => resp.json())
@@ -70,7 +70,7 @@ export default function Projects(){
                         id={project.id}
                         name={project.name}
                         budget={project.budget}
-                        category={project.category.name}
+                        category={project.name}
                         key={project.id}
                         handleRemove={removeProject}
                         
